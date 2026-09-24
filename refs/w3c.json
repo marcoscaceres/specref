@@ -187122,6 +187122,10 @@
         "aliasOf": "rdf-sparql-XMLres",
         "isSeriesAlias": true
     },
+    "sparql-rl": {
+        "aliasOf": "sparql12-rl",
+        "isSeriesAlias": true
+    },
     "sparql-service-description": {
         "aliasOf": "sparql11-service-description",
         "isSeriesAlias": true
