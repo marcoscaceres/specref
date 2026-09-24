@@ -182712,7 +182712,7 @@
         "isSeriesAlias": true
     },
     "shacl-rules": {
-        "aliasOf": "shacl12-rules",
+        "aliasOf": "sparql-rl",
         "isSeriesAlias": true
     },
     "shacl-sparql": {
